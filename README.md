@@ -12,6 +12,16 @@ The project includes the following features:
 
 ![Diagram](https://github.com/utsavchab/OS_Project/blob/main/GFG-21.png)
 
+## Motivation for the completion of the project
+We wanted to know the backend of the pre-defined allocater and deallocaters like 'new', 'malloc','calloc','del' etc. So we made this projct without use of these keywords from scratch with the help of Operating Systems concepts.
+
+
+## Contributers
+[Utsav Chabhadiya](https://github.com/utsavchab)  
+[Vaibhav Jain](https://github.com/VaibhavJain05)  
+[Mohan Chaturvedhi Urukutla](https://github.com/MohanChaturvedhi)  
+[Unnati Dutt](https://github.com/18unnatidutt)  
+
 ## Instructions for running the files:
 1. Input can be given via [main.cpp](https://github.com/utsavchab/OS_Project/blob/main/main.cpp)
 2. The class defined for allocating and deallocating is in [HeapManager.h](https://github.com/utsavchab/OS_Project/blob/main/HeapManager.h)
