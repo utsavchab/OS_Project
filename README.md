@@ -1,4 +1,4 @@
-# OS_Project
+# OS Project
 
 ## Heap Memory Management Project
 This is a project for managing heap memory in a computer program. The purpose of this project is to provide a custom implementation of a dynamic memory allocator that manages the heap memory in a more efficient way than the default allocator provided by the operating system.
