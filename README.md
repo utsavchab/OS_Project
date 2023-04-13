@@ -23,6 +23,6 @@ We wanted to know the backend of the pre-defined allocater and deallocaters like
 [Unnati Dutt](https://github.com/18unnatidutt)  
 
 ## Instructions for running the files:
-1. Input can be given via [test1.cpp](https://github.com/utsavchab/OS_Project/blob/main/test.cpp)
+1. Input can be given via [test_version_2.0.cpp](https://github.com/utsavchab/OS_Project/blob/main/test_version_2.0.cpp)
 2. The class defined for allocating and deallocating is in [HeapManager.h](https://github.com/utsavchab/OS_Project/blob/main/HeapManager.h)
 
