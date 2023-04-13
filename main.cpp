@@ -66,7 +66,7 @@ int main() {
 			
 			if(storage.size() > 0){
 				for(int i = 0 ; i < storage.size() ; i ++){
-					cout << "Block " << i+1 << "of Size " <<blocksizes[i] <<  " Allocated at : " << storage[i] << '\n';
+					cout << "Block " << i+1 << " of Size " <<blocksizes[i] <<  " Allocated at : " << storage[i] << '\n';
 				}
 			}else{
 				cout << "!! Storage is EMPTY !!" << '\n';
