@@ -9,7 +9,7 @@ The project includes the following features:
 **Memory Allocation**: The allocator provides functions to allocate memory from the heap, both for single objects and arrays.  
 **Memory Deallocation**: The allocator provides functions to deallocate memory that was previously allocated using the allocator.
 
-![Diagram](https://github.com/utsavchab/OS_Project/blob/main/GFG-21.png)
+![](https://github.com/utsavchab/OS_Project/blob/main/GFG-21.png)
 
 ## Future implementation 
 To allocate any size of memory. It helps in reducing excess memory allocation and gives flexibility in Storage Management.
