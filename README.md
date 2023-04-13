@@ -11,12 +11,12 @@ The project includes the following features:
 
 ![Diagram](https://github.com/utsavchab/OS_Project/blob/main/GFG-21.png)
 
-## Motivation for the completion of the project
-We wanted to know the backend of the pre-defined allocater and deallocaters like 'new', 'malloc','calloc','del' etc. So we made this projct without use of these keywords from scratch with the help of Operating Systems concepts.  
-
 ## Use Cases 
 To allocate any size of memory. It helps in reducing excess memory allocation and gives flexibility in Storage Management.
 
+
+## Motivation for the completion of the project
+We wanted to know the backend of the pre-defined allocater and deallocaters like 'new', 'malloc','calloc','del' etc. So we made this projct without use of these keywords from scratch with the help of Operating Systems concepts.  
 
 ## Contributers
 [Utsav Chabhadiya](https://github.com/utsavchab)  
